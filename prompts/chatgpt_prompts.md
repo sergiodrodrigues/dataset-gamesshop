@@ -1,5 +1,5 @@
 ## Análise de Vendas:
-- Quais são os 10 produtos mais vendidos (por quantidade) em cada país de entrega?
+- Quais são os 2 produtos mais vendidos (por quantidade) em cada país de entrega?
 - Calcule o total de vendas por mês e por ano.
 - Identifique os produtos com maior margem de lucro.
 - Analise o impacto dos cupons de desconto nas vendas totais.
